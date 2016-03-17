@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidDataStorage</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Android Data Storage</string>
+    <string name="title_activity_shared_preference">SharedPreference</string>
+    <string name="title_activity_sqlite">SQLiteActivity</string>
+    <string name="label1">Android Book Name : </string>
+    <string name="label2">Android Book Author : </string>
+    <string name="label3">Description : </string>
+</resources>
